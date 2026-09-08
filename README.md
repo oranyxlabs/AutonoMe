@@ -11,7 +11,7 @@ Applications open, documents are written, files get managed. You can watch it ha
 
 Requirements:
 Visual Studio
-Adminiostrator Account
+Administrator Account
 Ollama
 Capable Vision Model
 .NET 8.0
