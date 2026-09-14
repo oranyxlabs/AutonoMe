@@ -10,8 +10,8 @@ Your computer takes over
 Applications open, documents are written, files get managed. You can watch it happen in real time; or just come back when it's done.
 
 Requirements:
-Visual Studio
-Administrator Account
-Ollama
-Capable Vision Model
+-Visual Studio
+-Administrator Account
+-Ollama
+-Capable Vision Model
 .NET 8.0
