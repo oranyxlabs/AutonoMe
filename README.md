@@ -13,10 +13,10 @@ Requirements:
 
 -Visual Studio
 
--Administrator Account
+-Main Administrator Account
 
 -Ollama
 
--Capable Vision Model
+-Capable Vision Model Only
 
 .NET 8.0
