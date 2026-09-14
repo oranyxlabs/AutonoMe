@@ -10,6 +10,7 @@ Your computer takes over
 Applications open, documents are written, files get managed. You can watch it happen in real time; or just come back when it's done.
 
 Requirements:
+
 -Visual Studio
 
 -Administrator Account
