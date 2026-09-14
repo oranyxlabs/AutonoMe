@@ -8,15 +8,3 @@ Autono-Me finds the right files, reads their contents, selects the right applica
 
 Your computer takes over
 Applications open, documents are written, files get managed. You can watch it happen in real time; or just come back when it's done.
-
-Requirements:
-
--Visual Studio
-
--Main Administrator Account
-
--Ollama
-
--Capable Vision Model Only
-
-.NET 8.0
